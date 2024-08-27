@@ -1,6 +1,5 @@
 /* Tittle: Portable Weather Station 
  * Autors: Daniel Centeno
- *         Lorena Garcia
  * 
  * Version: 2.7.9
  */
